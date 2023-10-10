@@ -28,8 +28,8 @@ My current areas of focus and interest include:
 
 Let's connect and collaborate:
 
-- GitHub: [R1MO9](https://github.com/usernameR1MO9)
-- LinkedIn: [Rupankar Das]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/rupankar-das-9b1a7a259/))
-- LeetCode: [rupankardas] (https://leetcode.com/rupankardas/)
+- GitHub: (https://github.com/usernameR1MO9)
+- LinkedIn: (https://www.linkedin.com/in/rupankar-das-9b1a7a259/)
+- LeetCode: (https://leetcode.com/rupankardas/)
 
 Whether you want to work on a project together, have questions, or just want to say hello, don't hesitate to reach out. I'm always eager to embrace new challenges and opportunities! 🤗
