@@ -1,4 +1,4 @@
-# Hi there, I'm Rupankar Das (usernameR1MO9) 👋
+# Hi there, I'm Rupankar Das 👋
 
 
 🚀 I'm a passionate coder with a deep love for solving problems, particularly in the field of Data Structures and Algorithms (DSA). Currently, I'm dedicated to honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack and exploring the world of backend development. I'm also enthusiastic about contributing to open-source projects.
