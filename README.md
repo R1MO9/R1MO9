@@ -1,5 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4795lksewnzn73p6e2ylm28lcegt7rxmy3c7cbwisc&ep=v1_gifs_search&rid=200.webp&ct=g"> 
-
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)]
 
 # Hi there, I'm Rupankar Das 👋
 
