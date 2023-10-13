@@ -1,3 +1,6 @@
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4795lksewnzn73p6e2ylm28lcegt7rxmy3c7cbwisc&ep=v1_gifs_search&rid=200.webp&ct=g"> 
+
+
 # Hi there, I'm Rupankar Das 👋
 
 
