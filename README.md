@@ -26,7 +26,11 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-  
+
+<h3>Most Language Used</h3>
+![](https://github-readme-streak-stats.herokuapp.com/?user=R1MO9&theme=dark&hide_border=false)<br/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌱 Current Focus
 
 My current areas of focus and interest include:
@@ -36,12 +40,5 @@ My current areas of focus and interest include:
 - 🌏 Actively seeking opportunities to contribute to open-source projects.
 - 🧠 Constantly improving my problem-solving abilities in DSA.
 
-## 🤝 Let's Connect
-
-Let's connect and collaborate:
-
-- GitHub: (https://github.com/usernameR1MO9)
-- LinkedIn: (https://www.linkedin.com/in/rupankar-das-9b1a7a259/)
-- LeetCode: (https://leetcode.com/rupankardas/)
 
 Whether you want to work on a project together, have questions, or just want to say hello, don't hesitate to reach out. I'm always eager to embrace new challenges and opportunities! 🤗
