@@ -1,6 +1,6 @@
 ![Header](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 # Hi there, I'm Rupankar Das 👋
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 🚀 I'm a passionate coder with a deep love for solving problems, particularly in the field of Data Structures and Algorithms (DSA). Currently, I'm dedicated to honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack and exploring the world of backend development. I'm also enthusiastic about contributing to open-source projects.
 
 <h3 align="left">Connect with me:</h3>
