@@ -51,7 +51,6 @@ My current areas of focus and interest include:
 
 - 🚀 Advancing my skills in the MERN stack.
 - 🔍 Exploring the intricacies of backend development.
-- 🌏 Actively seeking opportunities to contribute to open-source projects.
 - 🧠 Constantly improving my problem-solving abilities in DSA.
 
 
