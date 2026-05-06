@@ -1,58 +1,136 @@
-![Header](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
-# Hi there, I'm Rupankar Das 👋
+<div align="center">
 
-🚀 I'm a passionate coder with a deep love for solving problems, particularly in the field of Data Structures and Algorithms (DSA). Currently, I'm dedicated to honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack and exploring the world of backend development. I'm also enthusiastic about contributing to open-source projects.
+<img src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" width="100%" alt="Header Banner"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rupankar-das-9b1a7a259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupankar-das-9b1a7a259" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rupankardas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupankardas" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rimon" height="30" width="40" /></a>
-<a href="rupankardasofficial@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="rupankardasofficial@gmail.com" height="30" width="40" /></a>
+# Hi, I'm Rupankar Das 👋  
+### Full Stack Developer | Backend Engineer | Problem Solver
+
+<p align="center">
+  Passionate about building scalable applications, designing efficient backend systems,  
+  and solving real-world problems with clean and maintainable code.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://github.com/R1MO9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="css3 logo" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="60" height="60" alt="electron logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="60" height="60" alt="electron logo" />
-
-###
 </div>
 
-###
+---
 
+## 🚀 About Me
 
-### 📊 GitHub Stats:
+I'm a passionate developer focused on building scalable full stack applications and backend systems.  
+I enjoy solving complex engineering problems, designing maintainable architectures, and continuously improving my craft.
+
+- 💻 Focused on **Full Stack Web Development**
+- ⚙️ Exploring **Backend Architecture & System Design**
+- 🧠 Strong interest in **Data Structures & Algorithms**
+- 🌱 Currently building with the **MERN Stack**, **Next.js**, and modern backend tooling
+- 🤝 Open to **collaborations**, **freelance opportunities**, and **open-source contributions**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,html,css,sql" />
+</p>
+
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,materialui" />
+</p>
+
+### **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### **Database & ORM**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma" />
+</p>
+
+### **DevOps & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,bash" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,firebase,supabase,vscode" />
+</p>
+
+### **Libraries & Ecosystem**
+<p>
+  <img src="https://skillicons.dev/icons?i=socketio,graphql,apollo,redis" />
+</p>
+
+### **Mobile & Desktop**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,electron" />
+</p>
+
+### **Other Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=jwt,cloudflare" />
+</p>
+
+---
+
+## 🌱 Current Focus
+
+- 🚀 Building scalable full stack applications  
+- ⚙️ Learning advanced backend architecture & distributed systems  
+- 🧠 Improving DSA and problem-solving skills  
+- 📦 Working with **Prisma**, **Redis**, **queues**, and **system design patterns**  
+- 🔐 Building secure authentication & role-based access systems  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=R1MO9&theme=radical&hide_border=true&show_icons=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=R1MO9&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1MO9&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1MO9&theme=radical&hide_border=true&layout=compact)
 
-### 🌱 Current Focus
+</div>
 
-My current areas of focus and interest include:
+---
 
-- 🚀 Advancing my skills in the MERN stack.
-- 🔍 Exploring the intricacies of backend development.
-- 🧠 Constantly improving my problem-solving abilities in DSA.
+## 🏗️ What I Build
 
+- Scalable **Full Stack Web Applications**
+- Secure **Authentication & Authorization Systems**
+- Complex **Admin Dashboards & CRM Systems**
+- **REST APIs** and backend services
+- Real-time apps with **WebSockets / Socket.IO**
+- **Queue-based systems** with Redis
+- Business automation and workflow systems
 
-Whether you want to work on a project together, have questions, or just want to say hello, don't hesitate to reach out. I'm always eager to embrace new challenges and opportunities! 🤗
+---
 
+## 🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects, backend systems, SaaS ideas, and open-source work.
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ *Code. Architect. Scale. Repeat.*
+
+</div>
