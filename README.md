@@ -123,8 +123,8 @@ I enjoy solving complex engineering problems, designing maintainable architectur
 I'm always open to collaborating on exciting projects, backend systems, SaaS ideas, and open-source work.
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/r1mo9"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:rupankardas53@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
